@@ -1,6 +1,4 @@
-<div align="center">
 
-![Header](https://via.placeholder.com/800x200/1a472a/ffffff?text=Hi+I'm+Ashmit+Rai+%F0%9F%91%8B)
 
 # Hi I'm Ashmit 👋
 
@@ -42,7 +40,7 @@
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashmit-rai-250b87337/))
 [![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/yourhandle)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
