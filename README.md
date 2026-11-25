@@ -1,46 +1,76 @@
+```text
+ █████╗ ███████╗██╗  ██╗███╗   ███╗██╗████████╗    ██████╗  █████╗ ██╗
+██╔══██╗██╔════╝██║  ██║████╗ ████║██║╚══██╔══╝    ██╔══██╗██╔══██╗██║
+███████║███████╗███████║██╔████╔██║██║   ██║       ██████╔╝███████║██║
+██╔══██║╚════██║██╔══██║██║╚██╔╝██║██║   ██║       ██╔══██╗██╔══██║██║
+██║  ██║███████║██║  ██║██║ ╚═╝ ██║██║   ██║       ██║  ██║██║  ██║██║
+╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
+```
 
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  $ whoami                                                            │
+│  > ML engineer in the making · product designer · co-founder         │
+│                                                                      │
+│  $ cat about.txt                                                     │
+│  > Engineering student @ Sir MVIT, Bengaluru (2028)                  │
+│  > I build ML systems end to end: data → model → API → dashboard     │
+│  > and I care about how they're evaluated, not just how they score   │
+│                                                                      │
+│  $ status --now                                                      │
+│  > co-founding Makao · campus social app (design + frontend)         │
+│  > exploring time-series ML, LLM evaluation & agentic systems        │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-# Hi I'm Ashmit 👋
+## ▸ Featured projects
 
-**Machine Learning & AI Developer**
+```text
+┌─ ECO-LOGIC ──────────────────────────────────────────────────────────┐
+│  Hourly energy-demand forecasting across 10 regional power grids     │
+│  ├─ XGBoost + weather covariates → 0.7–1.8% test MAPE                │
+│  ├─ 52–75% lower MAE than a naive lag-1 baseline                     │
+│  ├─ 4-fold walk-forward validation · SHAP explainability             │
+│  └─ FastAPI on Render · Next.js dashboard on Vercel · Docker         │
+└──────────────────────────────────────────────────────────────────────┘
+┌─ ALEI ───────────────────────────────────────────────────────────────┐
+│  Why do Indian insurers reject claims? (IBM Z Datathon · team lead)  │
+│  ├─ 10,337 scanned pages → 7,650 structured Ombudsman awards         │
+│  ├─ LLM labels with verified verbatim quotes (93.8% match)           │
+│  ├─ macro-F1 0.70 vs blind human labels · PII redacted               │
+│  └─ offline classifier running on IBM Z (LinuxONE)                   │
+└──────────────────────────────────────────────────────────────────────┘
+┌─ SIMS ───────────────────────────────────────────────────────────────┐
+│  Smart inventory: forecast demand, decide what to reorder and when   │
+│  ├─ lag/trend demand forecasting · 95% service-level safety stock    │
+│  └─ 730-day simulation sandbox for demand shocks & supplier delays   │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-</div>
+| Project | What it is | Stack |
+|---|---|---|
+| [**ECO-LOGIC**](https://github.com/Ashmit-rai17/ECO-LOGIC) | Energy-demand forecasting platform | XGBoost · LightGBM · SHAP · FastAPI · Next.js |
+| [**Alei**](https://github.com/Ashmit-rai17/alei) | Insurance claim-rejection NLP + public dataset | scikit-learn · LLMs · NLP · IBM Z |
+| [**SIMS**](https://github.com/Ashmit-rai17/SIMS) | Inventory forecasting + simulation sandbox | scikit-learn · FastAPI · React |
+| [**REALM**](https://github.com/Ashmit-rai17/REALM) | Satellite land classification (proof of concept) | PyTorch · ResNet · Flask |
 
----
+## ▸ Tech stack
 
-### About Me
+```text
+LANGUAGES   ▸ Python · SQL · TypeScript · C/C++
+ML / DATA   ▸ scikit-learn · XGBoost · LightGBM · PyTorch · SHAP · statsmodels · Pandas
+LLM         ▸ LangChain · LangGraph · ChromaDB
+BUILD/SHIP  ▸ FastAPI · Flask · React · Next.js · Docker · Render · Vercel
+DESIGN      ▸ Figma · Stitch
+```
 
-- 🤖 **AI/ML Enthusiast**: Passionate about building intelligent systems that solve real-world problems.
-- 🌱 **Domain Projects**: Working on **REALM** (Renewable Energy Automated Land Monitoring) and **KRISHI** (Agriculture-focused ML solutions).
-- 📊 **Core Focus**: Predictive modeling, time-series forecasting, recommendation systems, and data-driven applications.
-- 🛠️ **Applied Developer**: Combining Machine Learning with web technologies (Streamlit, React, etc.) to create deployable tools.
-- 🔭 **Currently Exploring**: Agentic AI, MLOps, and scalable AI deployments.
-- 💡 **Ask me about**: Python, Scikit-learn, Time Series, Recommendation Engines, or Sustainable Tech projects.
+## ▸ Connect
 
----
+```text
+$ contact --list
+  linkedin  →  linkedin.com/in/ashmit-rai-250b87337
+  email     →  ashmitrai1706@gmail.com
+```
 
-### Tech Stack
-
-**Languages & Frameworks**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-**Web & Others**
-
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-
----
-
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashmit-rai-250b87337/))
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashmit-rai-250b87337/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashmitrai1706@gmail.com)
